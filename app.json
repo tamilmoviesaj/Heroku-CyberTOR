@@ -17,7 +17,7 @@
 			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"https://developers.google.com/drive/api/v3/quickstart/nodejs\" for Generate.",
 			"value": "Something like 7Tvz8hPufx-O7XHK583j8Gtm"
 		},
-		"GDRIVE_PARENT_FOLDER": {
+		"GDRIVE_FOLDER_ID": {
 			"description": "Folder Id of Google.Read Readme.md to know more.",
 			"value": "Something like 7Tvz8hPufx-O7XHK583j8Gtm"
 		},
